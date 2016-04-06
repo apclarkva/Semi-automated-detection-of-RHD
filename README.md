@@ -1,0 +1,2 @@
+# Semi-automated-detection-of-RHD
+A diagnosis of RHD is confirmed by the presence of multiple structural and functional abnormalities in the heart. These files are a first attempt at creating a semi-automated screening program for detecting left ventricular abnormalities. The three zip files include a pixel to mm calibration function, border detection algorithm (with license) and method for measuring the width of the left ventricle. 
